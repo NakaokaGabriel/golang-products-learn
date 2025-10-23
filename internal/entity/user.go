@@ -1,4 +1,4 @@
-package user
+package internal
 
 import (
 	id "github.com/NakaokaGabriel/go/products-projects/pkg/entity"
